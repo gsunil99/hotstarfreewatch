@@ -32,4 +32,3 @@ Contributions to the HotstarCricketStream are welcome! If you have any ideas, su
 ## Disclaimer
 
 This is developed for educational and learning purposes only. It is not associated with or endorsed by Hotstar or any other streaming platform. Use this responsibly and in compliance with the terms and conditions of the websites you visit.
-# hotstarfreewatch
